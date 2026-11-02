@@ -1,0 +1,201 @@
+feature_id,feature_name,product,category,customer_demand,business_value,urgency,strategic_alignment,estimated_effort_hours,release_id,status
+FEAT-0001,Intelligent Notifications,Analytics Suite,Integration,83,64,Medium,87,104,REL-0104,Deferred
+FEAT-0002,Federated Access Control,Security Shield,Data Management,75,51,Medium,55,11,REL-0116,Released
+FEAT-0003,Integrated Filtering,Integration Platform,Authentication,47,62,High,87,13,REL-0003,Testing
+FEAT-0004,Scalable Analytics,ProductPilot Core,Security,56,43,High,100,73,REL-0085,Under Review
+FEAT-0005,Enhanced Reporting,Workflow Automation,API,91,56,Low,89,146,REL-0013,Released
+FEAT-0006,Dynamic Templates,Analytics Suite,Dashboard,38,26,Critical,63,66,REL-0014,Proposed
+FEAT-0007,Interactive Notifications,ProductPilot Core,Reporting,76,59,Critical,66,151,REL-0019,In Development
+FEAT-0008,Interactive Alerts,Collaboration Hub,Search,25,16,High,29,76,REL-0113,In Development
+FEAT-0009,Intelligent Analytics,ProductPilot Core,Reporting,53,71,High,91,45,REL-0147,Deferred
+FEAT-0010,Scalable Notifications,Collaboration Hub,Security,25,44,Low,69,142,REL-0111,Approved
+FEAT-0011,Automated Visualization,Analytics Suite,User Interface,25,69,High,56,108,REL-0027,Approved
+FEAT-0012,Dynamic Reporting,Analytics Suite,Authentication,25,53,High,48,145,REL-0057,Proposed
+FEAT-0013,Intelligent Sync,Analytics Suite,Data Management,18,31,Critical,80,72,REL-0090,Approved
+FEAT-0014,Dynamic Data Pipeline,Collaboration Hub,Search,98,32,Low,70,24,REL-0049,Approved
+FEAT-0015,Scalable Templates,ProductPilot Core,Reporting,45,38,Medium,70,170,REL-0143,Under Review
+FEAT-0016,Custom API Gateway,Analytics Suite,Notifications,27,49,Critical,96,114,REL-0027,Approved
+FEAT-0017,Custom Visualization,Mobile Companion,Authentication,9,47,Medium,21,59,REL-0013,Proposed
+FEAT-0018,Enhanced Scheduling,Security Shield,Authentication,13,42,High,76,113,REL-0082,Released
+FEAT-0019,Dynamic Sync,Reporting Engine,User Interface,92,73,Low,72,184,REL-0148,Released
+FEAT-0020,Predictive Scheduling,Security Shield,Data Management,26,79,Low,81,170,,Testing
+FEAT-0021,Federated Reporting,ProductPilot Core,Notifications,56,69,Low,16,172,REL-0006,Under Review
+FEAT-0022,Federated Data Pipeline,Mobile Companion,Reporting,16,43,Critical,64,65,REL-0092,Under Review
+FEAT-0023,Streamlined Dashboard,Mobile Companion,Dashboard,61,54,High,92,41,REL-0136,Testing
+FEAT-0024,Custom Export,Mobile Companion,API,37,64,Medium,81,118,REL-0111,In Development
+FEAT-0025,Smart Alerts,Workflow Automation,Reporting,78,79,Medium,83,188,,Deferred
+FEAT-0026,Integrated Sync,Analytics Suite,Notifications,71,21,Low,44,55,REL-0085,Under Review
+FEAT-0027,Real-time Sync,Integration Platform,Dashboard,80,62,High,68,18,,Deferred
+FEAT-0028,Custom Reporting,Reporting Engine,Dashboard,100,69,High,18,107,REL-0071,Approved
+FEAT-0029,Smart Reporting,Security Shield,Search,16,100,Critical,26,71,REL-0072,Approved
+FEAT-0030,Real-time Filtering,Integration Platform,Notifications,2,96,High,31,152,REL-0070,Approved
+FEAT-0031,Streamlined Workflow,ProductPilot Core,Performance,99,80,Critical,44,109,REL-0020,In Development
+FEAT-0032,Advanced User Management,ProductPilot Core,User Interface,89,10,Medium,10,25,REL-0144,Released
+FEAT-0033,Enhanced Scheduling,Analytics Suite,Notifications,3,72,Critical,12,159,REL-0005,Deferred
+FEAT-0034,Enhanced Import,Workflow Automation,User Interface,64,35,Low,14,103,REL-0040,Under Review
+FEAT-0035,Enhanced Visualization,Reporting Engine,Dashboard,62,67,Medium,98,32,REL-0129,In Development
+FEAT-0036,Federated Reporting,ProductPilot Core,Performance,40,61,High,20,28,,Proposed
+FEAT-0037,Real-time Workflow,ProductPilot Core,Reporting,7,49,Critical,36,8,REL-0010,Under Review
+FEAT-0038,Smart Import,Mobile Companion,User Interface,56,73,Critical,54,53,REL-0023,Proposed
+FEAT-0039,Interactive Search,Workflow Automation,Notifications,66,100,Critical,29,162,REL-0011,Proposed
+FEAT-0040,Federated Scheduling,Analytics Suite,Dashboard,75,100,Medium,36,160,REL-0045,Under Review
+FEAT-0041,Real-time Data Pipeline,Analytics Suite,Integration,63,97,Low,75,115,REL-0033,Testing
+FEAT-0042,Federated Notifications,ProductPilot Core,Export,77,86,Critical,47,133,REL-0150,In Development
+FEAT-0043,Streamlined Scheduling,Analytics Suite,Data Management,41,17,High,39,92,REL-0140,In Development
+FEAT-0044,Smart Workflow,Analytics Suite,Performance,75,69,High,80,193,REL-0082,Approved
+FEAT-0045,Advanced API Gateway,Mobile Companion,Dashboard,88,97,Medium,58,75,,In Development
+FEAT-0046,Smart Search,ProductPilot Core,Authentication,74,13,Low,88,52,REL-0044,Released
+FEAT-0047,Interactive Search,Reporting Engine,Performance,20,90,High,47,42,REL-0080,Testing
+FEAT-0048,Real-time API Gateway,Reporting Engine,User Interface,88,86,Medium,56,19,REL-0007,Released
+FEAT-0049,Advanced Templates,Analytics Suite,Integration,76,95,Medium,11,84,,Proposed
+FEAT-0050,Streamlined Templates,Collaboration Hub,Data Management,30,39,Medium,28,95,REL-0027,Testing
+FEAT-0051,Integrated Access Control,Reporting Engine,Dashboard,83,70,Medium,27,127,REL-0050,Proposed
+FEAT-0052,Predictive Workflow,Security Shield,Data Management,81,23,High,34,143,REL-0104,Proposed
+FEAT-0053,Streamlined Analytics,Reporting Engine,Search,28,79,High,98,156,REL-0033,Approved
+FEAT-0054,Real-time Filtering,Analytics Suite,Security,38,60,Low,51,16,REL-0126,Deferred
+FEAT-0055,Intelligent Alerts,Workflow Automation,API,56,34,Low,72,26,REL-0014,Released
+FEAT-0056,Advanced Export,Security Shield,Authentication,29,40,Medium,19,114,REL-0070,Approved
+FEAT-0057,Enhanced User Management,Security Shield,Reporting,84,62,Low,12,34,,Under Review
+FEAT-0058,Advanced Audit Log,Collaboration Hub,API,81,13,Critical,54,8,REL-0050,Approved
+FEAT-0059,Federated Export,Integration Platform,API,11,44,Medium,27,161,REL-0031,Deferred
+FEAT-0060,Unified Import,Reporting Engine,Dashboard,3,77,Critical,37,138,REL-0146,Released
+FEAT-0061,Advanced Sync,Collaboration Hub,Security,94,24,Low,26,55,REL-0034,Released
+FEAT-0062,Scalable Workflow,Workflow Automation,Data Management,89,58,High,78,126,,Proposed
+FEAT-0063,Custom Dashboard,Collaboration Hub,Reporting,37,59,Medium,51,81,REL-0044,Under Review
+FEAT-0064,Scalable API Gateway,Integration Platform,Reporting,82,100,High,90,133,REL-0019,Released
+FEAT-0065,Predictive API Gateway,Reporting Engine,Dashboard,36,69,Critical,88,66,REL-0011,Proposed
+FEAT-0066,Predictive Alerts,Reporting Engine,User Interface,74,60,High,68,10,REL-0073,Approved
+FEAT-0067,Smart Filtering,Collaboration Hub,Data Management,27,75,High,96,162,REL-0059,Testing
+FEAT-0068,Federated Data Pipeline,Reporting Engine,Search,80,86,High,42,81,REL-0003,Approved
+FEAT-0069,Scalable Analytics,Mobile Companion,Performance,59,32,Critical,63,146,,Deferred
+FEAT-0070,Smart Audit Log,Reporting Engine,Integration,1,71,High,74,159,,Proposed
+FEAT-0071,Smart Visualization,Reporting Engine,Performance,72,77,High,94,71,REL-0128,Deferred
+FEAT-0072,Automated Analytics,Workflow Automation,API,57,62,Medium,41,193,REL-0137,Proposed
+FEAT-0073,Enhanced Dashboard,Collaboration Hub,Authentication,77,73,High,12,15,REL-0133,Deferred
+FEAT-0074,Automated Export,Collaboration Hub,Search,64,12,Low,90,116,,Testing
+FEAT-0075,Custom Visualization,Collaboration Hub,Reporting,67,28,Critical,58,195,REL-0128,Deferred
+FEAT-0076,Custom Import,Mobile Companion,Performance,100,66,High,59,77,REL-0120,Released
+FEAT-0077,Real-time Notifications,Analytics Suite,Dashboard,57,67,Medium,20,81,REL-0122,Approved
+FEAT-0078,Federated Import,Reporting Engine,Notifications,98,47,High,92,162,,Under Review
+FEAT-0079,Predictive Alerts,Mobile Companion,Security,9,78,Low,83,17,,Under Review
+FEAT-0080,Advanced Search,Workflow Automation,API,66,63,Low,30,50,REL-0102,Under Review
+FEAT-0081,Unified Import,Workflow Automation,API,16,32,Low,44,198,,Approved
+FEAT-0082,Predictive Dashboard,Collaboration Hub,Search,86,26,Medium,89,103,,Under Review
+FEAT-0083,Enhanced Data Pipeline,Workflow Automation,API,50,51,High,74,56,REL-0087,In Development
+FEAT-0084,Intelligent Audit Log,Reporting Engine,Dashboard,20,65,Low,14,189,REL-0084,Approved
+FEAT-0085,Integrated Dashboard,Reporting Engine,User Interface,10,19,High,88,81,,Deferred
+FEAT-0086,Interactive Bulk Operations,Workflow Automation,Export,82,78,High,15,15,REL-0093,Approved
+FEAT-0087,Intelligent Workflow,Mobile Companion,API,70,24,Low,24,61,REL-0073,Deferred
+FEAT-0088,Scalable Alerts,Analytics Suite,Search,98,97,Critical,35,126,REL-0067,Approved
+FEAT-0089,Federated User Management,Integration Platform,Reporting,10,17,Critical,100,94,REL-0004,Approved
+FEAT-0090,Smart Reporting,Collaboration Hub,API,63,54,Medium,41,166,REL-0091,Proposed
+FEAT-0091,Predictive Export,Analytics Suite,Authentication,96,14,Low,88,50,REL-0147,Released
+FEAT-0092,Unified User Management,Integration Platform,Performance,37,84,Medium,41,27,REL-0016,Under Review
+FEAT-0093,Streamlined Sync,Analytics Suite,Data Management,83,82,Medium,82,89,REL-0098,Testing
+FEAT-0094,Integrated Visualization,Security Shield,Search,39,43,Low,75,10,REL-0119,Approved
+FEAT-0095,Dynamic Workflow,Collaboration Hub,Integration,48,56,Medium,55,119,REL-0097,Under Review
+FEAT-0096,Unified Filtering,Mobile Companion,Reporting,10,76,Medium,63,188,REL-0112,Proposed
+FEAT-0097,Predictive Alerts,Integration Platform,Performance,48,73,Medium,12,113,REL-0056,In Development
+FEAT-0098,Predictive Audit Log,Mobile Companion,API,85,25,Medium,94,61,REL-0139,In Development
+FEAT-0099,Dynamic Reporting,Workflow Automation,Notifications,29,98,Critical,45,125,,In Development
+FEAT-0100,Real-time Templates,Integration Platform,API,84,82,Critical,11,86,REL-0104,Testing
+FEAT-0101,Smart Reporting,Reporting Engine,Search,30,93,Low,42,19,,Released
+FEAT-0102,Integrated Access Control,Security Shield,Reporting,14,44,High,84,183,,Released
+FEAT-0103,Smart Notifications,Workflow Automation,Performance,98,54,High,78,36,REL-0115,Released
+FEAT-0104,Custom Audit Log,Integration Platform,Authentication,22,28,Low,11,55,REL-0020,Approved
+FEAT-0105,Automated Scheduling,Workflow Automation,Authentication,21,96,High,90,127,REL-0006,Proposed
+FEAT-0106,Federated Data Pipeline,Reporting Engine,Export,64,75,High,83,158,REL-0132,Proposed
+FEAT-0107,Streamlined User Management,Security Shield,Integration,41,72,High,64,10,REL-0089,Deferred
+FEAT-0108,Custom Workflow,Security Shield,Security,63,17,Medium,73,136,REL-0106,Proposed
+FEAT-0109,Smart Export,Mobile Companion,Data Management,67,68,Critical,67,74,REL-0078,Released
+FEAT-0110,Custom Analytics,Collaboration Hub,Search,2,19,Medium,66,51,REL-0036,Proposed
+FEAT-0111,Real-time Scheduling,Security Shield,Dashboard,41,77,Critical,72,127,REL-0009,Approved
+FEAT-0112,Integrated Data Pipeline,Mobile Companion,Dashboard,15,59,Medium,83,53,REL-0008,Released
+FEAT-0113,Unified Import,Integration Platform,Security,62,45,High,25,195,REL-0023,Approved
+FEAT-0114,Federated Notifications,Reporting Engine,Data Management,27,73,Medium,67,56,REL-0148,In Development
+FEAT-0115,Scalable Visualization,Integration Platform,Integration,60,35,Critical,21,50,REL-0079,Under Review
+FEAT-0116,Scalable Templates,Workflow Automation,Reporting,63,71,Critical,32,194,,Approved
+FEAT-0117,Federated Dashboard,Integration Platform,Security,74,63,High,76,48,REL-0011,Deferred
+FEAT-0118,Advanced Visualization,Analytics Suite,Export,44,83,Critical,75,60,REL-0051,Approved
+FEAT-0119,Intelligent User Management,Security Shield,Authentication,61,46,Low,47,26,,In Development
+FEAT-0120,Smart Export,Collaboration Hub,User Interface,61,19,Low,56,185,,Deferred
+FEAT-0121,Intelligent Visualization,Reporting Engine,Performance,48,18,Critical,96,182,REL-0102,In Development
+FEAT-0122,Interactive User Management,Collaboration Hub,Notifications,44,79,High,88,23,,Deferred
+FEAT-0123,Advanced Analytics,Integration Platform,Data Management,47,28,Medium,60,98,,Proposed
+FEAT-0124,Integrated Alerts,Workflow Automation,API,29,16,Critical,90,17,REL-0131,Approved
+FEAT-0125,Federated Audit Log,Mobile Companion,Reporting,43,67,Medium,99,51,REL-0094,Testing
+FEAT-0126,Unified Workflow,ProductPilot Core,Authentication,7,31,Critical,53,73,,Testing
+FEAT-0127,Unified Export,ProductPilot Core,Dashboard,35,36,Critical,53,159,REL-0129,In Development
+FEAT-0128,Advanced User Management,Mobile Companion,Reporting,48,51,High,52,87,REL-0113,Approved
+FEAT-0129,Streamlined Filtering,Security Shield,Search,11,86,Low,82,89,REL-0090,Released
+FEAT-0130,Real-time User Management,Mobile Companion,Dashboard,77,79,Critical,15,197,,In Development
+FEAT-0131,Advanced Import,Collaboration Hub,Data Management,28,11,Medium,67,101,REL-0114,Testing
+FEAT-0132,Enhanced Scheduling,Mobile Companion,Dashboard,7,51,Medium,24,182,REL-0105,Deferred
+FEAT-0133,Predictive Data Pipeline,Collaboration Hub,Integration,44,40,Medium,81,189,REL-0038,In Development
+FEAT-0134,Integrated Sync,Reporting Engine,Performance,25,13,Medium,82,20,REL-0121,In Development
+FEAT-0135,Streamlined Sync,Reporting Engine,Export,36,51,High,47,65,REL-0071,Testing
+FEAT-0136,Scalable Dashboard,Collaboration Hub,Data Management,6,47,Medium,23,133,REL-0031,Proposed
+FEAT-0137,Custom Search,Security Shield,Notifications,42,29,Low,60,173,REL-0027,In Development
+FEAT-0138,Streamlined Alerts,Analytics Suite,Authentication,53,12,High,96,190,REL-0040,Testing
+FEAT-0139,Intelligent Alerts,ProductPilot Core,Notifications,99,34,Medium,30,158,REL-0148,In Development
+FEAT-0140,Enhanced User Management,Analytics Suite,Data Management,58,53,High,59,20,REL-0023,Testing
+FEAT-0141,Smart Data Pipeline,Mobile Companion,Notifications,39,44,Low,86,123,,In Development
+FEAT-0142,Unified Bulk Operations,Mobile Companion,Reporting,60,68,Medium,100,23,REL-0031,Under Review
+FEAT-0143,Real-time Audit Log,Mobile Companion,Notifications,54,99,High,33,119,REL-0148,Approved
+FEAT-0144,Custom API Gateway,Mobile Companion,Notifications,37,73,High,34,63,REL-0085,Approved
+FEAT-0145,Scalable Sync,Reporting Engine,API,88,34,Critical,49,73,REL-0100,Testing
+FEAT-0146,Interactive Reporting,ProductPilot Core,Integration,31,37,Critical,78,55,REL-0130,Approved
+FEAT-0147,Enhanced Visualization,Workflow Automation,User Interface,28,33,Critical,95,137,REL-0096,In Development
+FEAT-0148,Unified Visualization,Security Shield,API,83,20,High,63,130,REL-0052,Deferred
+FEAT-0149,Automated Data Pipeline,Security Shield,API,45,90,High,96,117,REL-0096,In Development
+FEAT-0150,Custom Data Pipeline,Collaboration Hub,Data Management,6,16,Low,27,23,REL-0107,In Development
+FEAT-0151,Automated API Gateway,Workflow Automation,API,54,67,Medium,60,117,REL-0054,In Development
+FEAT-0152,Dynamic Data Pipeline,Integration Platform,User Interface,55,44,Medium,22,153,REL-0019,Testing
+FEAT-0153,Federated User Management,Reporting Engine,Performance,73,98,Low,69,82,REL-0121,Under Review
+FEAT-0154,Custom Alerts,ProductPilot Core,Notifications,6,42,High,80,87,REL-0003,Deferred
+FEAT-0155,Unified Export,Integration Platform,Reporting,46,14,High,86,134,REL-0089,Proposed
+FEAT-0156,Automated Alerts,Reporting Engine,Integration,55,15,High,41,144,REL-0146,Under Review
+FEAT-0157,Integrated Notifications,Analytics Suite,Dashboard,38,70,Critical,67,112,REL-0012,Under Review
+FEAT-0158,Streamlined Scheduling,Collaboration Hub,Export,63,98,Medium,23,109,REL-0148,Under Review
+FEAT-0159,Smart Export,Workflow Automation,Authentication,15,94,High,92,14,REL-0047,Testing
+FEAT-0160,Intelligent Data Pipeline,Integration Platform,Dashboard,74,96,Medium,80,177,REL-0068,Approved
+FEAT-0161,Automated Search,Security Shield,API,4,90,High,39,200,REL-0088,Testing
+FEAT-0162,Streamlined Access Control,Collaboration Hub,API,26,46,High,21,121,REL-0070,In Development
+FEAT-0163,Interactive Templates,Reporting Engine,Performance,50,75,Low,22,200,REL-0087,Proposed
+FEAT-0164,Interactive Dashboard,Workflow Automation,Authentication,8,40,Low,33,80,REL-0029,In Development
+FEAT-0165,Integrated Import,Workflow Automation,Integration,6,33,Low,88,133,REL-0091,In Development
+FEAT-0166,Custom Workflow,Analytics Suite,User Interface,11,14,Medium,11,137,REL-0139,Under Review
+FEAT-0167,Real-time Search,Workflow Automation,API,8,65,High,44,135,REL-0053,Under Review
+FEAT-0168,Interactive Sync,ProductPilot Core,Dashboard,21,78,Medium,92,52,REL-0110,Approved
+FEAT-0169,Integrated Sync,Integration Platform,Security,52,24,Medium,22,75,REL-0018,Under Review
+FEAT-0170,Streamlined Audit Log,ProductPilot Core,Dashboard,5,21,Low,20,54,REL-0005,In Development
+FEAT-0171,Smart Access Control,Mobile Companion,Dashboard,83,51,Low,82,170,REL-0003,Under Review
+FEAT-0172,Unified Search,Integration Platform,Data Management,64,96,Medium,16,30,REL-0006,Approved
+FEAT-0173,Streamlined Access Control,Mobile Companion,Export,46,99,Critical,83,30,REL-0109,Released
+FEAT-0174,Unified Notifications,Mobile Companion,Export,85,32,Critical,31,94,REL-0099,Under Review
+FEAT-0175,Streamlined Notifications,ProductPilot Core,User Interface,27,84,Critical,52,35,REL-0049,Under Review
+FEAT-0176,Dynamic Visualization,Mobile Companion,API,37,48,High,25,79,REL-0048,Deferred
+FEAT-0177,Real-time Scheduling,Mobile Companion,Dashboard,94,70,High,11,148,,Deferred
+FEAT-0178,Integrated API Gateway,Security Shield,Security,97,83,Medium,60,39,REL-0145,Proposed
+FEAT-0179,Dynamic Scheduling,Workflow Automation,Dashboard,84,23,Medium,24,113,REL-0031,Under Review
+FEAT-0180,Unified Scheduling,Analytics Suite,Data Management,91,51,Low,69,54,REL-0028,Deferred
+FEAT-0181,Advanced Reporting,Integration Platform,Reporting,87,22,Low,24,108,,Approved
+FEAT-0182,Integrated Templates,Mobile Companion,Reporting,82,18,Medium,72,21,REL-0066,Deferred
+FEAT-0183,Enhanced User Management,Analytics Suite,Export,29,91,Low,49,167,REL-0078,Proposed
+FEAT-0184,Dynamic Dashboard,Collaboration Hub,User Interface,34,71,Medium,85,156,REL-0018,Deferred
+FEAT-0185,Custom Dashboard,Security Shield,Export,93,85,Critical,77,13,REL-0073,Under Review
+FEAT-0186,Integrated Analytics,Mobile Companion,Export,75,59,High,17,18,REL-0027,Approved
+FEAT-0187,Smart Workflow,Integration Platform,API,26,49,Critical,68,105,REL-0001,Approved
+FEAT-0188,Automated Visualization,Reporting Engine,Performance,3,52,High,59,92,REL-0117,Released
+FEAT-0189,Scalable Analytics,ProductPilot Core,Notifications,3,80,Low,51,65,REL-0025,Proposed
+FEAT-0190,Scalable Dashboard,ProductPilot Core,API,45,98,High,87,33,REL-0030,In Development
+FEAT-0191,Automated Data Pipeline,Integration Platform,Search,22,26,High,50,157,REL-0120,Deferred
+FEAT-0192,Scalable Analytics,Mobile Companion,Search,73,41,Medium,34,31,REL-0037,Proposed
+FEAT-0193,Enhanced Search,Security Shield,Export,5,90,Medium,76,116,REL-0069,Under Review
+FEAT-0194,Smart Analytics,Reporting Engine,Export,51,25,High,44,162,,Approved
+FEAT-0195,Interactive Access Control,Integration Platform,Data Management,74,84,High,22,125,REL-0125,Approved
+FEAT-0196,Real-time Search,Security Shield,Notifications,64,69,Low,26,187,REL-0011,Approved
+FEAT-0197,Scalable Alerts,ProductPilot Core,Security,6,86,Critical,80,71,,Approved
+FEAT-0198,Integrated Filtering,ProductPilot Core,Notifications,20,89,Low,67,95,REL-0085,In Development
+FEAT-0199,Streamlined Import,Integration Platform,Dashboard,35,45,Medium,56,39,,Under Review
+FEAT-0200,Unified Notifications,Integration Platform,Dashboard,35,99,Medium,14,56,REL-0104,Proposed

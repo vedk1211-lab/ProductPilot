@@ -1,0 +1,401 @@
+feature_id,feature_name,customer_demand,business_value,urgency,strategic_alignment,dev_effort,task_id,project_id,task_status,planned_date,actual_date,release_id
+FEAT-0001,Intelligent Notifications,83,6.4,5,4,6,TASK-00066,PROJ-Comply,Not Started,2025-08-28,,REL-0104
+FEAT-0001,Intelligent Notifications,83,6.4,5,4,6,TASK-00381,PROJ-Comply,Completed,2024-11-16,,REL-0104
+FEAT-0002,Federated Access Control,75,5.1,5,3,1,TASK-00147,PROJ-Comply,Completed,2026-06-07,2026-06-09,REL-0116
+FEAT-0002,Federated Access Control,75,5.1,5,3,1,TASK-00351,PROJ-Horizon,In Progress,2024-07-11,,REL-0116
+FEAT-0003,Integrated Filtering,47,6.2,7,4,1,TASK-00535,PROJ-Atlas,In Progress,2024-02-09,,REL-0003
+FEAT-0003,Integrated Filtering,47,6.2,7,4,1,TASK-00615,PROJ-Atlas,Completed,2024-08-02,,REL-0003
+FEAT-0004,Scalable Analytics,56,4.3,7,5,5,TASK-00128,PROJ-Connect,Completed,2025-06-05,2025-06-13,REL-0085
+FEAT-0004,Scalable Analytics,56,4.3,7,5,5,TASK-00209,PROJ-Comply,Completed,2024-12-29,,REL-0085
+FEAT-0005,Enhanced Reporting,91,5.6,3,4,9,TASK-00303,PROJ-Nova,In Progress,2025-07-26,,REL-0013
+FEAT-0005,Enhanced Reporting,91,5.6,3,4,9,TASK-00850,PROJ-Connect,Completed,2024-08-06,2024-08-15,REL-0013
+FEAT-0006,Dynamic Templates,38,2.6,9,3,4,TASK-00388,PROJ-Comply,Completed,2025-12-22,,REL-0014
+FEAT-0006,Dynamic Templates,38,2.6,9,3,4,TASK-00587,PROJ-Atlas,Blocked,2024-07-08,,REL-0014
+FEAT-0007,Interactive Notifications,76,5.9,9,3,9,TASK-00190,PROJ-Comply,Blocked,2025-06-02,,REL-0019
+FEAT-0007,Interactive Notifications,76,5.9,9,3,9,TASK-00241,PROJ-Atlas,Completed,2025-04-15,,REL-0019
+FEAT-0008,Interactive Alerts,25,1.6,7,1,5,TASK-00536,PROJ-Connect,In Progress,2024-09-28,,REL-0113
+FEAT-0008,Interactive Alerts,25,1.6,7,1,5,TASK-00540,PROJ-Comply,Completed,2025-01-23,2025-02-04,REL-0113
+FEAT-0009,Intelligent Analytics,53,7.1,7,5,3,TASK-00104,PROJ-Connect,In Progress,2025-10-24,,REL-0147
+FEAT-0009,Intelligent Analytics,53,7.1,7,5,3,TASK-00155,PROJ-Comply,Completed,2026-02-25,2026-03-09,REL-0147
+FEAT-0010,Scalable Notifications,25,4.4,3,3,9,TASK-00142,PROJ-Atlas,Completed,2025-06-17,,REL-0111
+FEAT-0010,Scalable Notifications,25,4.4,3,3,9,TASK-00185,PROJ-Horizon,Completed,2025-11-01,2025-10-31,REL-0111
+FEAT-0011,Automated Visualization,25,6.9,7,3,7,TASK-00094,PROJ-Atlas,Completed,2025-11-25,2025-12-09,REL-0027
+FEAT-0011,Automated Visualization,25,6.9,7,3,7,TASK-00365,PROJ-Nova,Completed,2024-10-17,,REL-0027
+FEAT-0012,Dynamic Reporting,25,5.3,7,2,9,TASK-00160,PROJ-Comply,Blocked,2025-01-12,,REL-0057
+FEAT-0012,Dynamic Reporting,25,5.3,7,2,9,TASK-00719,PROJ-Comply,In Progress,2025-03-31,,REL-0057
+FEAT-0013,Intelligent Sync,18,3.1,9,4,4,TASK-00059,PROJ-Nova,Completed,2025-07-07,,REL-0090
+FEAT-0013,Intelligent Sync,18,3.1,9,4,4,TASK-00124,PROJ-Horizon,Completed,2025-04-01,2025-04-07,REL-0090
+FEAT-0014,Dynamic Data Pipeline,98,3.2,3,4,2,TASK-00004,PROJ-Atlas,Completed,2025-04-10,,REL-0049
+FEAT-0014,Dynamic Data Pipeline,98,3.2,3,4,2,TASK-00208,PROJ-Atlas,Completed,2024-10-22,,REL-0049
+FEAT-0015,Scalable Templates,45,3.8,5,4,11,TASK-00048,PROJ-Atlas,Completed,2025-05-06,2025-05-19,REL-0143
+FEAT-0015,Scalable Templates,45,3.8,5,4,11,TASK-00067,PROJ-Horizon,Completed,2025-07-03,,REL-0143
+FEAT-0016,Custom API Gateway,27,4.9,9,5,7,TASK-00193,PROJ-Connect,Not Started,2025-12-08,,REL-0027
+FEAT-0016,Custom API Gateway,27,4.9,9,5,7,TASK-00547,PROJ-Horizon,In Progress,2025-09-30,,REL-0027
+FEAT-0017,Custom Visualization,9,4.7,5,1,4,TASK-00084,PROJ-Nova,Completed,2026-05-15,,REL-0013
+FEAT-0017,Custom Visualization,9,4.7,5,1,4,TASK-00281,PROJ-Atlas,Blocked,2026-02-04,,REL-0013
+FEAT-0018,Enhanced Scheduling,13,4.2,7,4,7,TASK-00212,PROJ-Atlas,Not Started,2026-06-24,,REL-0082
+FEAT-0018,Enhanced Scheduling,13,4.2,7,4,7,TASK-00656,PROJ-Comply,Completed,2024-04-08,2024-04-06,REL-0082
+FEAT-0019,Dynamic Sync,92,7.3,3,4,12,TASK-00908,PROJ-Horizon,In Progress,2025-02-06,,REL-0148
+FEAT-0019,Dynamic Sync,92,7.3,3,4,12,TASK-00982,PROJ-Nova,Completed,2025-11-08,,REL-0148
+FEAT-0020,Predictive Scheduling,26,7.9,3,4,11,TASK-00428,PROJ-Comply,Not Started,2025-03-28,,REL-0043
+FEAT-0020,Predictive Scheduling,26,7.9,3,4,11,TASK-00580,PROJ-Connect,Cancelled,2024-12-22,,REL-0059
+FEAT-0021,Federated Reporting,56,6.9,3,1,11,TASK-00183,PROJ-Atlas,Completed,2024-04-19,2024-04-29,REL-0006
+FEAT-0021,Federated Reporting,56,6.9,3,1,11,TASK-00222,PROJ-Comply,In Progress,2025-01-01,,REL-0006
+FEAT-0022,Federated Data Pipeline,16,4.3,9,3,4,TASK-00032,PROJ-Horizon,Completed,2025-09-10,2025-09-18,REL-0092
+FEAT-0022,Federated Data Pipeline,16,4.3,9,3,4,TASK-00575,PROJ-Atlas,Cancelled,2026-02-03,,REL-0092
+FEAT-0023,Streamlined Dashboard,61,5.4,7,5,3,TASK-00177,PROJ-Connect,Completed,2025-08-09,2025-08-22,REL-0136
+FEAT-0023,Streamlined Dashboard,61,5.4,7,5,3,TASK-01017,PROJ-Horizon,Completed,2024-10-06,2024-10-07,REL-0136
+FEAT-0024,Custom Export,37,6.4,5,4,7,TASK-00399,PROJ-Nova,Completed,2024-09-23,2024-09-25,REL-0111
+FEAT-0024,Custom Export,37,6.4,5,4,7,TASK-00517,PROJ-Nova,Not Started,2025-09-14,,REL-0111
+FEAT-0025,Smart Alerts,78,7.9,5,4,12,TASK-00201,PROJ-Horizon,Completed,2026-04-05,2026-04-16,REL-0006
+FEAT-0025,Smart Alerts,78,7.9,5,4,12,TASK-00362,PROJ-Nova,In Progress,2025-09-04,,REL-0120
+FEAT-0026,Integrated Sync,71,2.1,3,2,3,TASK-00111,PROJ-Connect,In Progress,2025-06-06,,REL-0085
+FEAT-0026,Integrated Sync,71,2.1,3,2,3,TASK-00315,PROJ-Nova,In Progress,2024-07-30,,REL-0085
+FEAT-0027,Real-time Sync,80,6.2,7,3,1,TASK-00013,PROJ-Nova,In Progress,2024-05-07,,REL-0088
+FEAT-0027,Real-time Sync,80,6.2,7,3,1,TASK-00191,PROJ-Connect,Completed,2025-05-31,,REL-0089
+FEAT-0028,Custom Reporting,100,6.9,7,1,7,TASK-00267,PROJ-Connect,Not Started,2026-04-10,,REL-0071
+FEAT-0028,Custom Reporting,100,6.9,7,1,7,TASK-00302,PROJ-Comply,In Progress,2024-02-01,,REL-0071
+FEAT-0029,Smart Reporting,16,10.0,9,1,4,TASK-00122,PROJ-Atlas,Completed,2025-10-23,2025-11-07,REL-0072
+FEAT-0029,Smart Reporting,16,10.0,9,1,4,TASK-00542,PROJ-Atlas,In Progress,2024-05-21,,REL-0072
+FEAT-0030,Real-time Filtering,2,9.6,7,2,10,TASK-00131,PROJ-Atlas,Completed,2025-05-16,2025-05-23,REL-0070
+FEAT-0030,Real-time Filtering,2,9.6,7,2,10,TASK-00321,PROJ-Atlas,In Progress,2025-11-02,,REL-0070
+FEAT-0031,Streamlined Workflow,99,8.0,9,2,7,TASK-00410,PROJ-Comply,Completed,2024-09-30,2024-10-18,REL-0020
+FEAT-0031,Streamlined Workflow,99,8.0,9,2,7,TASK-00466,PROJ-Nova,Completed,2025-07-21,2025-07-30,REL-0020
+FEAT-0032,Advanced User Management,89,1.0,5,1,2,TASK-00123,PROJ-Atlas,Completed,2025-02-14,2025-02-24,REL-0144
+FEAT-0032,Advanced User Management,89,1.0,5,1,2,TASK-00205,PROJ-Comply,Blocked,2024-11-08,,REL-0144
+FEAT-0033,Enhanced Scheduling,3,7.2,9,1,10,TASK-00169,PROJ-Horizon,Completed,2024-10-28,2024-10-27,REL-0005
+FEAT-0033,Enhanced Scheduling,3,7.2,9,1,10,TASK-00359,PROJ-Atlas,In Progress,2025-04-03,,REL-0005
+FEAT-0034,Enhanced Import,64,3.5,3,1,6,TASK-00117,PROJ-Horizon,Completed,2025-06-19,2025-06-28,REL-0040
+FEAT-0034,Enhanced Import,64,3.5,3,1,6,TASK-00286,PROJ-Atlas,In Progress,2026-04-02,,REL-0040
+FEAT-0035,Enhanced Visualization,62,6.7,5,5,2,TASK-00089,PROJ-Horizon,Completed,2024-10-25,,REL-0129
+FEAT-0035,Enhanced Visualization,62,6.7,5,5,2,TASK-00226,PROJ-Comply,Not Started,2026-02-26,,REL-0129
+FEAT-0036,Federated Reporting,40,6.1,7,1,2,TASK-00141,PROJ-Horizon,Completed,2025-04-14,,REL-0025
+FEAT-0036,Federated Reporting,40,6.1,7,1,2,TASK-00232,PROJ-Atlas,Completed,2026-06-09,2026-06-20,REL-0064
+FEAT-0037,Real-time Workflow,7,4.9,9,2,1,TASK-00014,PROJ-Horizon,Completed,2024-06-29,2024-07-09,REL-0010
+FEAT-0037,Real-time Workflow,7,4.9,9,2,1,TASK-00109,PROJ-Connect,In Progress,2026-01-12,,REL-0010
+FEAT-0038,Smart Import,56,7.3,9,3,3,TASK-00096,PROJ-Comply,In Progress,2024-10-06,,REL-0023
+FEAT-0038,Smart Import,56,7.3,9,3,3,TASK-00247,PROJ-Connect,Cancelled,2024-09-14,,REL-0023
+FEAT-0039,Interactive Search,66,10.0,9,1,10,TASK-00050,PROJ-Comply,Blocked,2026-04-07,,REL-0011
+FEAT-0039,Interactive Search,66,10.0,9,1,10,TASK-00081,PROJ-Nova,In Progress,2024-10-12,,REL-0011
+FEAT-0040,Federated Scheduling,75,10.0,5,2,10,TASK-00266,PROJ-Connect,Cancelled,2024-01-29,,REL-0045
+FEAT-0040,Federated Scheduling,75,10.0,5,2,10,TASK-00287,PROJ-Horizon,Blocked,2024-09-22,,REL-0045
+FEAT-0041,Real-time Data Pipeline,63,9.7,3,4,7,TASK-00009,PROJ-Horizon,Completed,2024-06-30,2024-07-18,REL-0033
+FEAT-0041,Real-time Data Pipeline,63,9.7,3,4,7,TASK-00165,PROJ-Comply,Completed,2024-07-20,2024-08-05,REL-0033
+FEAT-0042,Federated Notifications,77,8.6,9,2,8,TASK-00674,PROJ-Horizon,In Progress,2026-02-13,,REL-0150
+FEAT-0042,Federated Notifications,77,8.6,9,2,8,TASK-00685,PROJ-Nova,Completed,2024-08-20,,REL-0150
+FEAT-0043,Streamlined Scheduling,41,1.7,7,2,6,TASK-00340,PROJ-Comply,Not Started,2024-05-13,,REL-0140
+FEAT-0043,Streamlined Scheduling,41,1.7,7,2,6,TASK-00527,PROJ-Nova,Completed,2025-11-02,2025-11-14,REL-0140
+FEAT-0044,Smart Workflow,75,6.9,7,4,12,TASK-00091,PROJ-Atlas,Completed,2026-06-14,2026-06-12,REL-0082
+FEAT-0044,Smart Workflow,75,6.9,7,4,12,TASK-00115,PROJ-Nova,Not Started,2025-05-02,,REL-0082
+FEAT-0045,Advanced API Gateway,88,9.7,5,3,5,TASK-00394,PROJ-Comply,In Progress,2025-12-03,,REL-0115
+FEAT-0045,Advanced API Gateway,88,9.7,5,3,5,TASK-00479,PROJ-Atlas,Completed,2024-10-16,,REL-0071
+FEAT-0046,Smart Search,74,1.3,3,4,3,TASK-00348,PROJ-Comply,In Progress,2025-11-15,,REL-0044
+FEAT-0046,Smart Search,74,1.3,3,4,3,TASK-00710,PROJ-Atlas,Completed,2025-04-19,2025-04-16,REL-0044
+FEAT-0047,Interactive Search,20,9.0,7,2,3,TASK-00176,PROJ-Connect,In Progress,2025-09-04,,REL-0080
+FEAT-0047,Interactive Search,20,9.0,7,2,3,TASK-00254,PROJ-Horizon,Not Started,2026-04-24,,REL-0080
+FEAT-0048,Real-time API Gateway,88,8.6,5,3,1,TASK-00223,PROJ-Horizon,Not Started,2025-05-23,,REL-0007
+FEAT-0048,Real-time API Gateway,88,8.6,5,3,1,TASK-00528,PROJ-Nova,Completed,2025-12-19,2025-12-19,REL-0007
+FEAT-0049,Advanced Templates,76,9.5,5,1,5,TASK-00007,PROJ-Horizon,Completed,2024-12-31,,REL-0134
+FEAT-0049,Advanced Templates,76,9.5,5,1,5,TASK-00012,PROJ-Connect,Completed,2025-07-03,,REL-0150
+FEAT-0050,Streamlined Templates,30,3.9,5,1,6,TASK-00725,PROJ-Connect,Not Started,2026-01-09,,REL-0027
+FEAT-0050,Streamlined Templates,30,3.9,5,1,6,TASK-00824,PROJ-Horizon,Cancelled,2024-12-23,,REL-0027
+FEAT-0051,Integrated Access Control,83,7.0,5,1,8,TASK-00034,PROJ-Horizon,In Progress,2025-07-07,,REL-0050
+FEAT-0051,Integrated Access Control,83,7.0,5,1,8,TASK-00130,PROJ-Nova,Completed,2026-05-08,2026-05-26,REL-0050
+FEAT-0052,Predictive Workflow,81,2.3,7,2,9,TASK-00076,PROJ-Connect,Completed,2025-02-18,2025-03-03,REL-0104
+FEAT-0052,Predictive Workflow,81,2.3,7,2,9,TASK-00240,PROJ-Nova,In Progress,2024-06-16,,REL-0104
+FEAT-0053,Streamlined Analytics,28,7.9,7,5,10,TASK-00019,PROJ-Comply,Completed,2026-02-04,2026-02-18,REL-0033
+FEAT-0053,Streamlined Analytics,28,7.9,7,5,10,TASK-00064,PROJ-Atlas,Completed,2026-04-25,,REL-0033
+FEAT-0054,Real-time Filtering,38,6.0,3,3,1,TASK-00224,PROJ-Atlas,In Progress,2025-09-26,,REL-0126
+FEAT-0054,Real-time Filtering,38,6.0,3,3,1,TASK-00553,PROJ-Nova,In Progress,2024-12-26,,REL-0126
+FEAT-0055,Intelligent Alerts,56,3.4,3,4,2,TASK-00204,PROJ-Connect,Completed,2025-02-02,2025-02-05,REL-0014
+FEAT-0055,Intelligent Alerts,56,3.4,3,4,2,TASK-00213,PROJ-Horizon,Not Started,2025-04-19,,REL-0014
+FEAT-0056,Advanced Export,29,4.0,5,1,7,TASK-00108,PROJ-Horizon,Completed,2024-03-25,2024-04-04,REL-0070
+FEAT-0056,Advanced Export,29,4.0,5,1,7,TASK-00135,PROJ-Connect,Cancelled,2024-07-14,,REL-0070
+FEAT-0057,Enhanced User Management,84,6.2,3,1,2,TASK-00083,PROJ-Nova,In Progress,2026-03-05,,REL-0079
+FEAT-0057,Enhanced User Management,84,6.2,3,1,2,TASK-00270,PROJ-Connect,Not Started,2024-06-22,,REL-0115
+FEAT-0058,Advanced Audit Log,81,1.3,9,3,1,TASK-00045,PROJ-Nova,Completed,2024-07-14,2024-07-17,REL-0050
+FEAT-0058,Advanced Audit Log,81,1.3,9,3,1,TASK-00085,PROJ-Horizon,In Progress,2025-12-08,,REL-0050
+FEAT-0059,Federated Export,11,4.4,5,1,10,TASK-00116,PROJ-Comply,Not Started,2024-05-22,,REL-0031
+FEAT-0059,Federated Export,11,4.4,5,1,10,TASK-00475,PROJ-Atlas,In Progress,2025-10-14,,REL-0031
+FEAT-0060,Unified Import,3,7.7,9,2,9,TASK-00180,PROJ-Connect,Completed,2025-01-17,2025-01-26,REL-0146
+FEAT-0060,Unified Import,3,7.7,9,2,9,TASK-00251,PROJ-Atlas,In Progress,2025-04-21,,REL-0146
+FEAT-0061,Advanced Sync,94,2.4,3,1,3,TASK-00170,PROJ-Atlas,Completed,2024-11-11,2024-11-12,REL-0034
+FEAT-0061,Advanced Sync,94,2.4,3,1,3,TASK-00465,PROJ-Comply,Not Started,2025-04-25,,REL-0034
+FEAT-0062,Scalable Workflow,89,5.8,7,4,8,TASK-00006,PROJ-Horizon,Completed,2025-12-04,2025-12-17,REL-0148
+FEAT-0062,Scalable Workflow,89,5.8,7,4,8,TASK-00186,PROJ-Connect,In Progress,2026-05-11,,REL-0001
+FEAT-0063,Custom Dashboard,37,5.9,5,3,5,TASK-00074,PROJ-Connect,Not Started,2025-09-22,,REL-0044
+FEAT-0063,Custom Dashboard,37,5.9,5,3,5,TASK-00248,PROJ-Nova,In Progress,2025-12-04,,REL-0044
+FEAT-0064,Scalable API Gateway,82,10.0,7,4,8,TASK-00098,PROJ-Comply,Completed,2025-04-01,2025-04-05,REL-0019
+FEAT-0064,Scalable API Gateway,82,10.0,7,4,8,TASK-00396,PROJ-Horizon,In Progress,2026-06-06,,REL-0019
+FEAT-0065,Predictive API Gateway,36,6.9,9,4,4,TASK-00086,PROJ-Comply,Not Started,2024-08-03,,REL-0011
+FEAT-0065,Predictive API Gateway,36,6.9,9,4,4,TASK-00146,PROJ-Connect,Completed,2025-04-25,2025-04-24,REL-0011
+FEAT-0066,Predictive Alerts,74,6.0,7,3,1,TASK-00016,PROJ-Horizon,In Progress,2024-06-19,,REL-0073
+FEAT-0066,Predictive Alerts,74,6.0,7,3,1,TASK-00044,PROJ-Comply,Completed,2026-07-05,2026-07-12,REL-0073
+FEAT-0067,Smart Filtering,27,7.5,7,5,10,TASK-00036,PROJ-Horizon,Completed,2026-02-14,2026-02-13,REL-0059
+FEAT-0067,Smart Filtering,27,7.5,7,5,10,TASK-00039,PROJ-Comply,In Progress,2025-10-17,,REL-0059
+FEAT-0068,Federated Data Pipeline,80,8.6,7,2,5,TASK-00040,PROJ-Horizon,Completed,2024-02-27,2024-03-03,REL-0003
+FEAT-0068,Federated Data Pipeline,80,8.6,7,2,5,TASK-00070,PROJ-Horizon,In Progress,2025-01-12,,REL-0003
+FEAT-0069,Scalable Analytics,59,3.2,9,3,9,TASK-00060,PROJ-Nova,Completed,2025-02-07,2025-02-08,REL-0073
+FEAT-0069,Scalable Analytics,59,3.2,9,3,9,TASK-00319,PROJ-Connect,Not Started,2024-04-13,,REL-0030
+FEAT-0070,Smart Audit Log,1,7.1,7,4,10,TASK-00028,PROJ-Nova,Completed,2025-09-25,,REL-0125
+FEAT-0070,Smart Audit Log,1,7.1,7,4,10,TASK-00113,PROJ-Comply,In Progress,2025-05-08,,REL-0121
+FEAT-0071,Smart Visualization,72,7.7,7,5,4,TASK-00047,PROJ-Horizon,In Progress,2026-03-23,,REL-0128
+FEAT-0071,Smart Visualization,72,7.7,7,5,4,TASK-00601,PROJ-Nova,In Progress,2026-07-07,,REL-0128
+FEAT-0072,Automated Analytics,57,6.2,5,2,12,TASK-00195,PROJ-Nova,In Progress,2025-11-05,,REL-0137
+FEAT-0072,Automated Analytics,57,6.2,5,2,12,TASK-00283,PROJ-Comply,In Progress,2025-05-02,,REL-0137
+FEAT-0073,Enhanced Dashboard,77,7.3,7,1,1,TASK-00024,PROJ-Atlas,Completed,2025-08-13,2025-08-19,REL-0133
+FEAT-0073,Enhanced Dashboard,77,7.3,7,1,1,TASK-00377,PROJ-Nova,In Progress,2025-10-14,,REL-0133
+FEAT-0074,Automated Export,64,1.2,3,4,7,TASK-00103,PROJ-Connect,Not Started,2025-04-15,,REL-0060
+FEAT-0074,Automated Export,64,1.2,3,4,7,TASK-00502,PROJ-Connect,Not Started,2025-12-31,,REL-0005
+FEAT-0075,Custom Visualization,67,2.8,9,3,12,TASK-00132,PROJ-Horizon,Completed,2026-02-01,2026-02-13,REL-0128
+FEAT-0075,Custom Visualization,67,2.8,9,3,12,TASK-00339,PROJ-Atlas,Completed,2025-05-27,2025-05-27,REL-0128
+FEAT-0076,Custom Import,100,6.6,7,3,5,TASK-00082,PROJ-Atlas,Completed,2024-11-26,2024-12-09,REL-0120
+FEAT-0076,Custom Import,100,6.6,7,3,5,TASK-00110,PROJ-Atlas,Completed,2026-03-18,2026-03-24,REL-0120
+FEAT-0077,Real-time Notifications,57,6.7,5,1,5,TASK-00054,PROJ-Connect,Completed,2024-03-18,2024-03-19,REL-0122
+FEAT-0077,Real-time Notifications,57,6.7,5,1,5,TASK-00239,PROJ-Nova,Completed,2025-01-04,,REL-0122
+FEAT-0078,Federated Import,98,4.7,7,5,10,TASK-00073,PROJ-Horizon,In Progress,2024-11-11,,REL-0066
+FEAT-0078,Federated Import,98,4.7,7,5,10,TASK-00107,PROJ-Connect,In Progress,2024-06-22,,REL-0092
+FEAT-0079,Predictive Alerts,9,7.8,3,4,1,TASK-00225,PROJ-Horizon,Not Started,2024-08-31,,REL-0060
+FEAT-0079,Predictive Alerts,9,7.8,3,4,1,TASK-00373,PROJ-Horizon,Completed,2026-03-05,2026-03-23,REL-0056
+FEAT-0080,Advanced Search,66,6.3,3,2,3,TASK-00058,PROJ-Atlas,Completed,2026-01-18,2026-01-28,REL-0102
+FEAT-0080,Advanced Search,66,6.3,3,2,3,TASK-00090,PROJ-Nova,Completed,2025-07-30,,REL-0102
+FEAT-0081,Unified Import,16,3.2,3,2,12,TASK-00269,PROJ-Comply,In Progress,2024-02-22,,REL-0095
+FEAT-0081,Unified Import,16,3.2,3,2,12,TASK-00400,PROJ-Atlas,In Progress,2026-05-26,,REL-0143
+FEAT-0082,Predictive Dashboard,86,2.6,5,4,6,TASK-00127,PROJ-Comply,In Progress,2025-09-14,,REL-0053
+FEAT-0082,Predictive Dashboard,86,2.6,5,4,6,TASK-00181,PROJ-Nova,In Progress,2025-08-24,,REL-0107
+FEAT-0083,Enhanced Data Pipeline,50,5.1,7,4,4,TASK-00244,PROJ-Connect,Not Started,2025-04-20,,REL-0087
+FEAT-0083,Enhanced Data Pipeline,50,5.1,7,4,4,TASK-00298,PROJ-Atlas,Completed,2026-04-19,,REL-0087
+FEAT-0084,Intelligent Audit Log,20,6.5,3,1,12,TASK-00051,PROJ-Connect,Completed,2024-10-10,2024-10-17,REL-0084
+FEAT-0084,Intelligent Audit Log,20,6.5,3,1,12,TASK-00353,PROJ-Nova,Completed,2025-11-29,2025-12-03,REL-0084
+FEAT-0085,Integrated Dashboard,10,1.9,7,4,5,TASK-00121,PROJ-Atlas,In Progress,2024-04-17,,REL-0013
+FEAT-0085,Integrated Dashboard,10,1.9,7,4,5,TASK-00252,PROJ-Horizon,In Progress,2026-02-18,,REL-0033
+FEAT-0086,Interactive Bulk Operations,82,7.8,7,1,1,TASK-00219,PROJ-Atlas,Completed,2024-10-13,2024-10-29,REL-0093
+FEAT-0086,Interactive Bulk Operations,82,7.8,7,1,1,TASK-00233,PROJ-Comply,Completed,2026-01-07,2026-01-07,REL-0093
+FEAT-0087,Intelligent Workflow,70,2.4,3,1,4,TASK-00005,PROJ-Connect,In Progress,2026-01-10,,REL-0073
+FEAT-0087,Intelligent Workflow,70,2.4,3,1,4,TASK-00011,PROJ-Comply,In Progress,2026-04-29,,REL-0073
+FEAT-0088,Scalable Alerts,98,9.7,9,2,8,TASK-00049,PROJ-Connect,Completed,2025-07-06,2025-07-20,REL-0067
+FEAT-0088,Scalable Alerts,98,9.7,9,2,8,TASK-00053,PROJ-Comply,In Progress,2026-01-13,,REL-0067
+FEAT-0089,Federated User Management,10,1.7,9,5,6,TASK-00295,PROJ-Connect,In Progress,2025-11-23,,REL-0004
+FEAT-0089,Federated User Management,10,1.7,9,5,6,TASK-00332,PROJ-Connect,Completed,2024-10-22,,REL-0004
+FEAT-0090,Smart Reporting,63,5.4,5,2,10,TASK-00061,PROJ-Atlas,Not Started,2026-04-07,,REL-0091
+FEAT-0090,Smart Reporting,63,5.4,5,2,10,TASK-00323,PROJ-Atlas,In Progress,2024-08-30,,REL-0091
+FEAT-0091,Predictive Export,96,1.4,3,4,3,TASK-00075,PROJ-Comply,Completed,2024-02-06,2024-02-09,REL-0147
+FEAT-0091,Predictive Export,96,1.4,3,4,3,TASK-00364,PROJ-Horizon,Completed,2024-03-26,,REL-0147
+FEAT-0092,Unified User Management,37,8.4,5,2,2,TASK-00021,PROJ-Horizon,In Progress,2026-06-06,,REL-0016
+FEAT-0092,Unified User Management,37,8.4,5,2,2,TASK-00057,PROJ-Comply,In Progress,2024-08-29,,REL-0016
+FEAT-0093,Streamlined Sync,83,8.2,5,4,6,TASK-00008,PROJ-Atlas,In Progress,2026-03-24,,REL-0098
+FEAT-0093,Streamlined Sync,83,8.2,5,4,6,TASK-00026,PROJ-Atlas,Completed,2024-10-23,2024-10-30,REL-0098
+FEAT-0094,Integrated Visualization,39,4.3,3,4,1,TASK-00872,PROJ-Atlas,Not Started,2024-10-24,,REL-0119
+FEAT-0094,Integrated Visualization,39,4.3,3,4,1,TASK-01236,PROJ-Nova,Blocked,2025-07-21,,REL-0119
+FEAT-0095,Dynamic Workflow,48,5.6,5,3,7,TASK-00118,PROJ-Horizon,Completed,2026-01-05,,REL-0097
+FEAT-0095,Dynamic Workflow,48,5.6,5,3,7,TASK-00284,PROJ-Comply,Completed,2025-05-24,,REL-0097
+FEAT-0096,Unified Filtering,10,7.6,5,3,12,TASK-00210,PROJ-Horizon,Completed,2025-10-20,2025-10-31,REL-0112
+FEAT-0096,Unified Filtering,10,7.6,5,3,12,TASK-00231,PROJ-Nova,In Progress,2025-10-04,,REL-0112
+FEAT-0097,Predictive Alerts,48,7.3,5,1,7,TASK-00143,PROJ-Atlas,Completed,2024-05-22,,REL-0056
+FEAT-0097,Predictive Alerts,48,7.3,5,1,7,TASK-00236,PROJ-Connect,Completed,2025-10-26,,REL-0056
+FEAT-0098,Predictive Audit Log,85,2.5,5,5,4,TASK-00696,PROJ-Connect,Completed,2026-02-21,,REL-0139
+FEAT-0098,Predictive Audit Log,85,2.5,5,5,4,TASK-00947,PROJ-Connect,Cancelled,2025-04-17,,REL-0139
+FEAT-0099,Dynamic Reporting,29,9.8,9,2,8,TASK-00025,PROJ-Horizon,Not Started,2025-09-10,,REL-0021
+FEAT-0099,Dynamic Reporting,29,9.8,9,2,8,TASK-00227,PROJ-Atlas,Not Started,2025-07-04,,REL-0121
+FEAT-0100,Real-time Templates,84,8.2,9,1,5,TASK-00137,PROJ-Comply,Completed,2025-07-06,2025-07-03,REL-0104
+FEAT-0100,Real-time Templates,84,8.2,9,1,5,TASK-00369,PROJ-Horizon,Completed,2025-08-27,2025-09-04,REL-0104
+FEAT-0101,Smart Reporting,30,9.3,3,2,1,TASK-00156,PROJ-Connect,In Progress,2024-07-19,,REL-0119
+FEAT-0101,Smart Reporting,30,9.3,3,2,1,TASK-00168,PROJ-Atlas,Completed,2025-08-15,2025-08-22,REL-0082
+FEAT-0102,Integrated Access Control,14,4.4,7,4,11,TASK-00350,PROJ-Atlas,In Progress,2025-01-27,,REL-0054
+FEAT-0102,Integrated Access Control,14,4.4,7,4,11,TASK-00525,PROJ-Atlas,Completed,2025-07-15,2025-07-13,REL-0109
+FEAT-0103,Smart Notifications,98,5.4,7,4,2,TASK-00030,PROJ-Atlas,Completed,2025-08-18,2025-09-01,REL-0115
+FEAT-0103,Smart Notifications,98,5.4,7,4,2,TASK-00391,PROJ-Atlas,Not Started,2025-07-04,,REL-0115
+FEAT-0104,Custom Audit Log,22,2.8,3,1,3,TASK-00033,PROJ-Nova,In Progress,2024-12-04,,REL-0020
+FEAT-0104,Custom Audit Log,22,2.8,3,1,3,TASK-00035,PROJ-Nova,Blocked,2025-07-24,,REL-0020
+FEAT-0105,Automated Scheduling,21,9.6,7,4,8,TASK-00144,PROJ-Comply,Blocked,2024-09-10,,REL-0006
+FEAT-0105,Automated Scheduling,21,9.6,7,4,8,TASK-00174,PROJ-Connect,Completed,2024-03-13,2024-03-14,REL-0006
+FEAT-0106,Federated Data Pipeline,64,7.5,7,4,10,TASK-00243,PROJ-Atlas,Not Started,2024-05-26,,REL-0132
+FEAT-0106,Federated Data Pipeline,64,7.5,7,4,10,TASK-00290,PROJ-Connect,Completed,2024-01-29,2024-02-11,REL-0132
+FEAT-0107,Streamlined User Management,41,7.2,7,3,1,TASK-00017,PROJ-Comply,Completed,2024-06-02,2024-06-02,REL-0089
+FEAT-0107,Streamlined User Management,41,7.2,7,3,1,TASK-00299,PROJ-Horizon,Blocked,2024-06-02,,REL-0089
+FEAT-0108,Custom Workflow,63,1.7,5,4,8,TASK-00505,PROJ-Comply,Not Started,2024-08-18,,REL-0106
+FEAT-0108,Custom Workflow,63,1.7,5,4,8,TASK-00612,PROJ-Connect,Completed,2025-07-20,,REL-0106
+FEAT-0109,Smart Export,67,6.8,9,3,5,TASK-00456,PROJ-Connect,Not Started,2026-03-06,,REL-0078
+FEAT-0109,Smart Export,67,6.8,9,3,5,TASK-00860,PROJ-Horizon,In Progress,2024-02-05,,REL-0078
+FEAT-0110,Custom Analytics,2,1.9,5,3,3,TASK-00335,PROJ-Atlas,In Progress,2024-12-13,,REL-0036
+FEAT-0110,Custom Analytics,2,1.9,5,3,3,TASK-00370,PROJ-Nova,In Progress,2026-01-13,,REL-0036
+FEAT-0111,Real-time Scheduling,41,7.7,9,4,8,TASK-00002,PROJ-Nova,Completed,2026-06-06,2026-06-10,REL-0009
+FEAT-0111,Real-time Scheduling,41,7.7,9,4,8,TASK-00003,PROJ-Horizon,In Progress,2025-06-16,,REL-0009
+FEAT-0112,Integrated Data Pipeline,15,5.9,5,4,3,TASK-00167,PROJ-Horizon,Completed,2025-10-30,2025-11-14,REL-0008
+FEAT-0112,Integrated Data Pipeline,15,5.9,5,4,3,TASK-00569,PROJ-Nova,Completed,2024-08-22,,REL-0008
+FEAT-0113,Unified Import,62,4.5,7,1,12,TASK-00406,PROJ-Horizon,In Progress,2024-03-13,,REL-0023
+FEAT-0113,Unified Import,62,4.5,7,1,12,TASK-00444,PROJ-Horizon,Blocked,2024-10-06,,REL-0023
+FEAT-0114,Federated Notifications,27,7.3,5,3,4,TASK-00458,PROJ-Connect,Completed,2024-08-10,2024-08-11,REL-0148
+FEAT-0114,Federated Notifications,27,7.3,5,3,4,TASK-00481,PROJ-Nova,Completed,2024-07-18,2024-07-31,REL-0148
+FEAT-0115,Scalable Visualization,60,3.5,9,1,3,TASK-00246,PROJ-Connect,Completed,2025-02-25,,REL-0079
+FEAT-0115,Scalable Visualization,60,3.5,9,1,3,TASK-00879,PROJ-Horizon,Completed,2025-11-27,,REL-0079
+FEAT-0116,Scalable Templates,63,7.1,9,2,12,TASK-00126,PROJ-Atlas,In Progress,2024-09-28,,REL-0121
+FEAT-0116,Scalable Templates,63,7.1,9,2,12,TASK-00197,PROJ-Nova,Blocked,2026-02-12,,REL-0150
+FEAT-0117,Federated Dashboard,74,6.3,7,4,3,TASK-00484,PROJ-Nova,Completed,2025-12-10,2025-12-26,REL-0011
+FEAT-0117,Federated Dashboard,74,6.3,7,4,3,TASK-00702,PROJ-Connect,In Progress,2025-02-17,,REL-0011
+FEAT-0118,Advanced Visualization,44,8.3,9,4,4,TASK-00347,PROJ-Atlas,In Progress,2025-12-27,,REL-0051
+FEAT-0118,Advanced Visualization,44,8.3,9,4,4,TASK-00416,PROJ-Horizon,In Progress,2025-10-20,,REL-0051
+FEAT-0119,Intelligent User Management,61,4.6,3,2,2,TASK-00087,PROJ-Comply,Completed,2024-10-07,2024-10-17,REL-0114
+FEAT-0119,Intelligent User Management,61,4.6,3,2,2,TASK-00389,PROJ-Atlas,In Progress,2024-10-22,,REL-0043
+FEAT-0120,Smart Export,61,1.9,3,3,12,TASK-00809,PROJ-Horizon,Not Started,2026-01-22,,REL-0101
+FEAT-0120,Smart Export,61,1.9,3,3,12,TASK-01271,PROJ-Horizon,Completed,2025-11-07,2025-11-23,REL-0056
+FEAT-0121,Intelligent Visualization,48,1.8,9,5,11,TASK-00001,PROJ-Atlas,In Progress,2024-07-04,,REL-0102
+FEAT-0121,Intelligent Visualization,48,1.8,9,5,11,TASK-00027,PROJ-Connect,Completed,2024-02-02,2024-02-17,REL-0102
+FEAT-0122,Interactive User Management,44,7.9,7,4,1,TASK-00821,PROJ-Connect,Completed,2025-10-24,,REL-0139
+FEAT-0122,Interactive User Management,44,7.9,7,4,1,TASK-00877,PROJ-Horizon,In Progress,2026-03-15,,REL-0150
+FEAT-0123,Advanced Analytics,47,2.8,5,3,6,TASK-00029,PROJ-Nova,In Progress,2025-11-11,,REL-0119
+FEAT-0123,Advanced Analytics,47,2.8,5,3,6,TASK-00279,PROJ-Nova,Completed,2025-08-25,2025-09-12,REL-0033
+FEAT-0124,Integrated Alerts,29,1.6,9,4,1,TASK-00129,PROJ-Nova,Completed,2024-02-19,,REL-0131
+FEAT-0124,Integrated Alerts,29,1.6,9,4,1,TASK-00594,PROJ-Connect,Completed,2025-08-16,2025-09-02,REL-0131
+FEAT-0125,Federated Audit Log,43,6.7,5,5,3,TASK-00105,PROJ-Atlas,Completed,2024-12-19,2024-12-16,REL-0094
+FEAT-0125,Federated Audit Log,43,6.7,5,5,3,TASK-00507,PROJ-Comply,In Progress,2025-11-24,,REL-0094
+FEAT-0126,Unified Workflow,7,3.1,9,3,5,TASK-00341,PROJ-Connect,Cancelled,2025-01-09,,REL-0061
+FEAT-0126,Unified Workflow,7,3.1,9,3,5,TASK-00698,PROJ-Atlas,Not Started,2024-08-18,,REL-0020
+FEAT-0127,Unified Export,35,3.6,9,3,10,TASK-00382,PROJ-Connect,Completed,2025-03-09,2025-03-08,REL-0129
+FEAT-0127,Unified Export,35,3.6,9,3,10,TASK-00779,PROJ-Comply,Completed,2024-03-16,,REL-0129
+FEAT-0128,Advanced User Management,48,5.1,7,3,5,TASK-00042,PROJ-Nova,Not Started,2024-03-18,,REL-0113
+FEAT-0128,Advanced User Management,48,5.1,7,3,5,TASK-00071,PROJ-Horizon,In Progress,2026-03-15,,REL-0113
+FEAT-0129,Streamlined Filtering,11,8.6,3,4,6,TASK-00282,PROJ-Atlas,In Progress,2025-06-08,,REL-0090
+FEAT-0129,Streamlined Filtering,11,8.6,3,4,6,TASK-00405,PROJ-Comply,Not Started,2024-09-29,,REL-0090
+FEAT-0130,Real-time User Management,77,7.9,9,1,12,TASK-00591,PROJ-Nova,Not Started,2025-11-29,,REL-0063
+FEAT-0130,Real-time User Management,77,7.9,9,1,12,TASK-01071,PROJ-Comply,Completed,2024-05-01,2024-05-02,REL-0101
+FEAT-0131,Advanced Import,28,1.1,5,3,6,TASK-00292,PROJ-Nova,In Progress,2025-10-04,,REL-0114
+FEAT-0131,Advanced Import,28,1.1,5,3,6,TASK-00401,PROJ-Nova,Blocked,2025-07-07,,REL-0114
+FEAT-0132,Enhanced Scheduling,7,5.1,5,1,11,TASK-00483,PROJ-Nova,Completed,2025-10-23,,REL-0105
+FEAT-0132,Enhanced Scheduling,7,5.1,5,1,11,TASK-00504,PROJ-Nova,Completed,2026-02-02,2026-02-02,REL-0105
+FEAT-0133,Predictive Data Pipeline,44,4.0,5,4,12,TASK-00031,PROJ-Nova,Blocked,2025-04-07,,REL-0038
+FEAT-0133,Predictive Data Pipeline,44,4.0,5,4,12,TASK-00095,PROJ-Comply,In Progress,2025-01-24,,REL-0038
+FEAT-0134,Integrated Sync,25,1.3,5,4,1,TASK-00037,PROJ-Nova,Completed,2024-02-19,,REL-0121
+FEAT-0134,Integrated Sync,25,1.3,5,4,1,TASK-00293,PROJ-Connect,Completed,2024-03-06,,REL-0121
+FEAT-0135,Streamlined Sync,36,5.1,7,2,4,TASK-00296,PROJ-Connect,Not Started,2025-01-18,,REL-0071
+FEAT-0135,Streamlined Sync,36,5.1,7,2,4,TASK-00421,PROJ-Connect,Not Started,2024-11-13,,REL-0071
+FEAT-0136,Scalable Dashboard,6,4.7,5,1,8,TASK-00354,PROJ-Comply,Completed,2026-01-31,,REL-0031
+FEAT-0136,Scalable Dashboard,6,4.7,5,1,8,TASK-01008,PROJ-Atlas,Completed,2025-11-27,2025-11-28,REL-0031
+FEAT-0137,Custom Search,42,2.9,3,3,11,TASK-00139,PROJ-Nova,Completed,2025-06-18,2025-06-26,REL-0027
+FEAT-0137,Custom Search,42,2.9,3,3,11,TASK-00188,PROJ-Comply,Completed,2024-12-24,,REL-0027
+FEAT-0138,Streamlined Alerts,53,1.2,7,5,12,TASK-00157,PROJ-Connect,Completed,2025-11-10,2025-11-14,REL-0040
+FEAT-0138,Streamlined Alerts,53,1.2,7,5,12,TASK-00567,PROJ-Horizon,In Progress,2026-04-23,,REL-0040
+FEAT-0139,Intelligent Alerts,99,3.4,5,2,10,TASK-00439,PROJ-Comply,In Progress,2026-04-01,,REL-0148
+FEAT-0139,Intelligent Alerts,99,3.4,5,2,10,TASK-00506,PROJ-Horizon,In Progress,2025-05-01,,REL-0148
+FEAT-0140,Enhanced User Management,58,5.3,7,3,1,TASK-00097,PROJ-Connect,Not Started,2024-08-30,,REL-0023
+FEAT-0140,Enhanced User Management,58,5.3,7,3,1,TASK-00242,PROJ-Connect,Not Started,2026-06-27,,REL-0023
+FEAT-0141,Smart Data Pipeline,39,4.4,3,4,8,TASK-00280,PROJ-Horizon,Completed,2025-02-05,2025-02-22,REL-0067
+FEAT-0141,Smart Data Pipeline,39,4.4,3,4,8,TASK-00329,PROJ-Comply,Blocked,2024-12-16,,REL-0148
+FEAT-0142,Unified Bulk Operations,60,6.8,5,5,1,TASK-00055,PROJ-Horizon,Not Started,2026-04-18,,REL-0031
+FEAT-0142,Unified Bulk Operations,60,6.8,5,5,1,TASK-00133,PROJ-Atlas,Completed,2024-12-06,2024-12-18,REL-0031
+FEAT-0143,Real-time Audit Log,54,9.9,7,2,7,TASK-00092,PROJ-Connect,Completed,2024-11-24,2024-11-30,REL-0148
+FEAT-0143,Real-time Audit Log,54,9.9,7,2,7,TASK-00422,PROJ-Comply,Completed,2025-02-14,2025-02-14,REL-0148
+FEAT-0144,Custom API Gateway,37,7.3,7,2,4,TASK-00230,PROJ-Atlas,Blocked,2024-07-19,,REL-0085
+FEAT-0144,Custom API Gateway,37,7.3,7,2,4,TASK-00614,PROJ-Atlas,In Progress,2025-01-22,,REL-0085
+FEAT-0145,Scalable Sync,88,3.4,9,2,5,TASK-00552,PROJ-Comply,In Progress,2026-07-10,,REL-0100
+FEAT-0145,Scalable Sync,88,3.4,9,2,5,TASK-00733,PROJ-Atlas,In Progress,2024-10-31,,REL-0100
+FEAT-0146,Interactive Reporting,31,3.7,9,4,3,TASK-00023,PROJ-Atlas,In Progress,2025-05-13,,REL-0130
+FEAT-0146,Interactive Reporting,31,3.7,9,4,3,TASK-00072,PROJ-Connect,Blocked,2026-03-22,,REL-0130
+FEAT-0147,Enhanced Visualization,28,3.3,9,5,9,TASK-00018,PROJ-Horizon,Blocked,2024-11-29,,REL-0096
+FEAT-0147,Enhanced Visualization,28,3.3,9,5,9,TASK-00265,PROJ-Atlas,Completed,2026-05-19,2026-06-04,REL-0096
+FEAT-0148,Unified Visualization,83,2.0,7,3,8,TASK-00271,PROJ-Connect,Blocked,2025-07-28,,REL-0052
+FEAT-0148,Unified Visualization,83,2.0,7,3,8,TASK-00376,PROJ-Atlas,Completed,2026-05-14,2026-05-12,REL-0052
+FEAT-0149,Automated Data Pipeline,45,9.0,7,5,7,TASK-00418,PROJ-Nova,Completed,2024-03-30,2024-04-06,REL-0096
+FEAT-0149,Automated Data Pipeline,45,9.0,7,5,7,TASK-00530,PROJ-Horizon,Not Started,2024-10-20,,REL-0096
+FEAT-0150,Custom Data Pipeline,6,1.6,3,1,1,TASK-00161,PROJ-Nova,Completed,2025-06-13,2025-06-26,REL-0107
+FEAT-0150,Custom Data Pipeline,6,1.6,3,1,1,TASK-00255,PROJ-Atlas,Not Started,2025-05-24,,REL-0107
+FEAT-0151,Automated API Gateway,54,6.7,5,3,7,TASK-00120,PROJ-Comply,Completed,2026-07-06,2026-07-20,REL-0054
+FEAT-0151,Automated API Gateway,54,6.7,5,3,7,TASK-00541,PROJ-Connect,In Progress,2025-02-10,,REL-0054
+FEAT-0152,Dynamic Data Pipeline,55,4.4,5,1,10,TASK-00419,PROJ-Connect,Completed,2024-11-05,,REL-0019
+FEAT-0152,Dynamic Data Pipeline,55,4.4,5,1,10,TASK-00833,PROJ-Connect,Completed,2024-07-13,,REL-0019
+FEAT-0153,Federated User Management,73,9.8,3,3,5,TASK-00245,PROJ-Connect,In Progress,2024-12-24,,REL-0121
+FEAT-0153,Federated User Management,73,9.8,3,3,5,TASK-00250,PROJ-Nova,Blocked,2024-09-13,,REL-0121
+FEAT-0154,Custom Alerts,6,4.2,7,4,5,TASK-00235,PROJ-Comply,Completed,2026-01-20,2026-01-21,REL-0003
+FEAT-0154,Custom Alerts,6,4.2,7,4,5,TASK-00278,PROJ-Connect,Completed,2026-03-09,,REL-0003
+FEAT-0155,Unified Export,46,1.4,7,4,8,TASK-00273,PROJ-Atlas,Completed,2025-04-17,2025-04-15,REL-0089
+FEAT-0155,Unified Export,46,1.4,7,4,8,TASK-00366,PROJ-Connect,In Progress,2024-11-09,,REL-0089
+FEAT-0156,Automated Alerts,55,1.5,7,2,9,TASK-00153,PROJ-Connect,In Progress,2025-04-06,,REL-0146
+FEAT-0156,Automated Alerts,55,1.5,7,2,9,TASK-00398,PROJ-Comply,In Progress,2025-03-27,,REL-0146
+FEAT-0157,Integrated Notifications,38,7.0,9,3,7,TASK-00320,PROJ-Nova,Completed,2026-06-10,,REL-0012
+FEAT-0157,Integrated Notifications,38,7.0,9,3,7,TASK-00392,PROJ-Atlas,Completed,2025-03-03,,REL-0012
+FEAT-0158,Streamlined Scheduling,63,9.8,5,1,7,TASK-00038,PROJ-Comply,In Progress,2026-02-23,,REL-0148
+FEAT-0158,Streamlined Scheduling,63,9.8,5,1,7,TASK-00268,PROJ-Horizon,Cancelled,2024-10-17,,REL-0148
+FEAT-0159,Smart Export,15,9.4,7,5,1,TASK-00501,PROJ-Atlas,Not Started,2024-07-19,,REL-0047
+FEAT-0159,Smart Export,15,9.4,7,5,1,TASK-00519,PROJ-Connect,In Progress,2026-05-19,,REL-0047
+FEAT-0160,Intelligent Data Pipeline,74,9.6,5,4,11,TASK-00063,PROJ-Connect,Completed,2026-02-05,,REL-0068
+FEAT-0160,Intelligent Data Pipeline,74,9.6,5,4,11,TASK-00403,PROJ-Horizon,In Progress,2024-02-16,,REL-0068
+FEAT-0161,Automated Search,4,9.0,7,2,12,TASK-00166,PROJ-Horizon,Completed,2025-10-01,2025-10-09,REL-0088
+FEAT-0161,Automated Search,4,9.0,7,2,12,TASK-00707,PROJ-Horizon,Completed,2025-06-18,2025-06-30,REL-0088
+FEAT-0162,Streamlined Access Control,26,4.6,7,1,8,TASK-00667,PROJ-Atlas,Not Started,2024-02-16,,REL-0070
+FEAT-0162,Streamlined Access Control,26,4.6,7,1,8,TASK-00705,PROJ-Atlas,Not Started,2024-10-25,,REL-0070
+FEAT-0163,Interactive Templates,50,7.5,3,1,12,TASK-00010,PROJ-Atlas,In Progress,2024-03-16,,REL-0087
+FEAT-0163,Interactive Templates,50,7.5,3,1,12,TASK-00258,PROJ-Connect,Cancelled,2025-01-28,,REL-0087
+FEAT-0164,Interactive Dashboard,8,4.0,3,2,5,TASK-00462,PROJ-Nova,Completed,2025-03-28,2025-04-05,REL-0029
+FEAT-0164,Interactive Dashboard,8,4.0,3,2,5,TASK-00687,PROJ-Comply,In Progress,2025-03-30,,REL-0029
+FEAT-0165,Integrated Import,6,3.3,3,4,8,TASK-00217,PROJ-Comply,Completed,2024-04-22,,REL-0091
+FEAT-0165,Integrated Import,6,3.3,3,4,8,TASK-00492,PROJ-Atlas,In Progress,2024-08-16,,REL-0091
+FEAT-0166,Custom Workflow,11,1.4,5,1,9,TASK-00171,PROJ-Connect,In Progress,2024-12-03,,REL-0139
+FEAT-0166,Custom Workflow,11,1.4,5,1,9,TASK-00172,PROJ-Horizon,In Progress,2025-08-30,,REL-0139
+FEAT-0167,Real-time Search,8,6.5,7,2,8,TASK-00432,PROJ-Horizon,Not Started,2024-10-23,,REL-0053
+FEAT-0167,Real-time Search,8,6.5,7,2,8,TASK-00923,PROJ-Horizon,Not Started,2026-05-14,,REL-0053
+FEAT-0168,Interactive Sync,21,7.8,5,5,3,TASK-00187,PROJ-Connect,Not Started,2024-03-08,,REL-0110
+FEAT-0168,Interactive Sync,21,7.8,5,5,3,TASK-00518,PROJ-Atlas,Not Started,2026-01-21,,REL-0110
+FEAT-0169,Integrated Sync,52,2.4,5,1,5,TASK-00326,PROJ-Atlas,In Progress,2026-03-19,,REL-0018
+FEAT-0169,Integrated Sync,52,2.4,5,1,5,TASK-00383,PROJ-Connect,Completed,2026-06-03,,REL-0018
+FEAT-0170,Streamlined Audit Log,5,2.1,3,1,3,TASK-00022,PROJ-Atlas,Completed,2025-10-15,,REL-0005
+FEAT-0170,Streamlined Audit Log,5,2.1,3,1,3,TASK-00043,PROJ-Nova,Completed,2024-08-07,2024-08-21,REL-0005
+FEAT-0171,Smart Access Control,83,5.1,3,4,11,TASK-00220,PROJ-Nova,Not Started,2024-02-17,,REL-0003
+FEAT-0171,Smart Access Control,83,5.1,3,4,11,TASK-00256,PROJ-Horizon,Completed,2025-11-10,,REL-0003
+FEAT-0172,Unified Search,64,9.6,5,1,2,TASK-00272,PROJ-Connect,Blocked,2024-07-05,,REL-0006
+FEAT-0172,Unified Search,64,9.6,5,1,2,TASK-00498,PROJ-Comply,Completed,2024-03-30,2024-04-12,REL-0006
+FEAT-0173,Streamlined Access Control,46,9.9,9,4,2,TASK-00079,PROJ-Connect,Completed,2025-03-05,,REL-0109
+FEAT-0173,Streamlined Access Control,46,9.9,9,4,2,TASK-00199,PROJ-Atlas,Completed,2025-10-25,2025-11-10,REL-0109
+FEAT-0174,Unified Notifications,85,3.2,9,2,6,TASK-00305,PROJ-Comply,Completed,2024-03-24,2024-04-09,REL-0099
+FEAT-0174,Unified Notifications,85,3.2,9,2,6,TASK-00408,PROJ-Horizon,Completed,2025-06-02,2025-06-02,REL-0099
+FEAT-0175,Streamlined Notifications,27,8.4,9,3,2,TASK-00407,PROJ-Horizon,In Progress,2024-12-27,,REL-0049
+FEAT-0175,Streamlined Notifications,27,8.4,9,3,2,TASK-00932,PROJ-Connect,Blocked,2026-02-26,,REL-0049
+FEAT-0176,Dynamic Visualization,37,4.8,7,1,5,TASK-00433,PROJ-Comply,In Progress,2026-06-13,,REL-0048
+FEAT-0176,Dynamic Visualization,37,4.8,7,1,5,TASK-00645,PROJ-Atlas,In Progress,2026-01-08,,REL-0048
+FEAT-0177,Real-time Scheduling,94,7.0,7,1,9,TASK-00393,PROJ-Horizon,Completed,2025-10-30,2025-11-05,REL-0017
+FEAT-0177,Real-time Scheduling,94,7.0,7,1,9,TASK-00474,PROJ-Comply,In Progress,2025-04-27,,REL-0032
+FEAT-0178,Integrated API Gateway,97,8.3,5,3,2,TASK-00041,PROJ-Atlas,Completed,2025-06-09,2025-06-10,REL-0145
+FEAT-0178,Integrated API Gateway,97,8.3,5,3,2,TASK-00361,PROJ-Comply,Not Started,2025-09-20,,REL-0145
+FEAT-0179,Dynamic Scheduling,84,2.3,5,1,7,TASK-00015,PROJ-Nova,Completed,2026-02-11,,REL-0031
+FEAT-0179,Dynamic Scheduling,84,2.3,5,1,7,TASK-00309,PROJ-Comply,Completed,2024-03-10,2024-03-16,REL-0031
+FEAT-0180,Unified Scheduling,91,5.1,3,3,3,TASK-00052,PROJ-Atlas,Not Started,2024-06-16,,REL-0028
+FEAT-0180,Unified Scheduling,91,5.1,3,3,3,TASK-00402,PROJ-Atlas,Completed,2024-02-18,2024-03-04,REL-0028
+FEAT-0181,Advanced Reporting,87,2.2,3,1,7,TASK-00316,PROJ-Atlas,Not Started,2025-08-24,,REL-0035
+FEAT-0181,Advanced Reporting,87,2.2,3,1,7,TASK-00760,PROJ-Comply,Completed,2025-12-21,,REL-0046
+FEAT-0182,Integrated Templates,82,1.8,5,4,1,TASK-00020,PROJ-Atlas,Blocked,2024-03-13,,REL-0066
+FEAT-0182,Integrated Templates,82,1.8,5,4,1,TASK-00068,PROJ-Horizon,Not Started,2025-08-20,,REL-0066
+FEAT-0183,Enhanced User Management,29,9.1,3,2,10,TASK-00545,PROJ-Horizon,Completed,2025-08-18,,REL-0078
+FEAT-0183,Enhanced User Management,29,9.1,3,2,10,TASK-00574,PROJ-Comply,Completed,2026-06-01,,REL-0078
+FEAT-0184,Dynamic Dashboard,34,7.1,5,4,10,TASK-00355,PROJ-Connect,Completed,2025-04-02,2025-04-10,REL-0018
+FEAT-0184,Dynamic Dashboard,34,7.1,5,4,10,TASK-00431,PROJ-Nova,Completed,2026-02-25,2026-03-08,REL-0018
+FEAT-0185,Custom Dashboard,93,8.5,9,4,1,TASK-00453,PROJ-Comply,In Progress,2024-01-29,,REL-0073
+FEAT-0185,Custom Dashboard,93,8.5,9,4,1,TASK-00588,PROJ-Comply,Completed,2024-06-22,,REL-0073
+FEAT-0186,Integrated Analytics,75,5.9,7,1,1,TASK-00106,PROJ-Horizon,Completed,2025-01-02,,REL-0027
+FEAT-0186,Integrated Analytics,75,5.9,7,1,1,TASK-00346,PROJ-Horizon,Completed,2026-06-14,,REL-0027
+FEAT-0187,Smart Workflow,26,4.9,9,3,7,TASK-00154,PROJ-Connect,Blocked,2024-08-27,,REL-0001
+FEAT-0187,Smart Workflow,26,4.9,9,3,7,TASK-00179,PROJ-Atlas,In Progress,2024-04-01,,REL-0001
+FEAT-0188,Automated Visualization,3,5.2,7,3,6,TASK-00136,PROJ-Atlas,In Progress,2026-06-22,,REL-0117
+FEAT-0188,Automated Visualization,3,5.2,7,3,6,TASK-00151,PROJ-Nova,Completed,2025-10-06,,REL-0117
+FEAT-0189,Scalable Analytics,3,8.0,3,3,4,TASK-00218,PROJ-Connect,Completed,2024-05-15,,REL-0025
+FEAT-0189,Scalable Analytics,3,8.0,3,3,4,TASK-00257,PROJ-Horizon,Completed,2026-06-05,,REL-0025
+FEAT-0190,Scalable Dashboard,45,9.8,7,4,2,TASK-00114,PROJ-Nova,Completed,2025-01-08,2025-01-12,REL-0030
+FEAT-0190,Scalable Dashboard,45,9.8,7,4,2,TASK-00478,PROJ-Connect,Completed,2024-12-22,,REL-0030
+FEAT-0191,Automated Data Pipeline,22,2.6,7,2,10,TASK-00175,PROJ-Connect,Completed,2024-03-22,2024-04-06,REL-0120
+FEAT-0191,Automated Data Pipeline,22,2.6,7,2,10,TASK-00459,PROJ-Comply,In Progress,2026-04-05,,REL-0120
+FEAT-0192,Scalable Analytics,73,4.1,5,2,2,TASK-00513,PROJ-Comply,In Progress,2024-02-18,,REL-0037
+FEAT-0192,Scalable Analytics,73,4.1,5,2,2,TASK-01007,PROJ-Horizon,In Progress,2024-04-08,,REL-0037
+FEAT-0193,Enhanced Search,5,9.0,5,4,7,TASK-00215,PROJ-Nova,Not Started,2026-01-02,,REL-0069
+FEAT-0193,Enhanced Search,5,9.0,5,4,7,TASK-00740,PROJ-Comply,Not Started,2024-10-19,,REL-0069
+FEAT-0194,Smart Analytics,51,2.5,7,2,10,TASK-00056,PROJ-Connect,Completed,2024-02-08,2024-02-13,REL-0147
+FEAT-0194,Smart Analytics,51,2.5,7,2,10,TASK-00214,PROJ-Comply,Completed,2025-11-06,,REL-0002
+FEAT-0195,Interactive Access Control,74,8.4,7,1,8,TASK-00077,PROJ-Horizon,In Progress,2026-04-21,,REL-0125
+FEAT-0195,Interactive Access Control,74,8.4,7,1,8,TASK-00112,PROJ-Horizon,Completed,2025-05-06,2025-05-14,REL-0125
+FEAT-0196,Real-time Search,64,6.9,3,1,12,TASK-00134,PROJ-Horizon,Not Started,2024-06-22,,REL-0011
+FEAT-0196,Real-time Search,64,6.9,3,1,12,TASK-00312,PROJ-Atlas,In Progress,2024-04-26,,REL-0011
+FEAT-0197,Scalable Alerts,6,8.6,9,4,4,TASK-00046,PROJ-Nova,In Progress,2025-03-28,,REL-0046
+FEAT-0197,Scalable Alerts,6,8.6,9,4,4,TASK-00300,PROJ-Connect,In Progress,2026-05-29,,REL-0041
+FEAT-0198,Integrated Filtering,20,8.9,3,3,6,TASK-00125,PROJ-Atlas,Not Started,2024-07-30,,REL-0085
+FEAT-0198,Integrated Filtering,20,8.9,3,3,6,TASK-00297,PROJ-Horizon,Completed,2026-02-12,2026-02-24,REL-0085
+FEAT-0199,Streamlined Import,35,4.5,5,3,2,TASK-01082,PROJ-Nova,Completed,2024-12-29,2025-01-11,REL-0094
+FEAT-0199,Streamlined Import,35,4.5,5,3,2,TASK-01186,PROJ-Connect,Blocked,2026-01-24,,REL-0027
+FEAT-0200,Unified Notifications,35,9.9,5,1,4,TASK-00080,PROJ-Connect,Completed,2026-04-15,2026-04-23,REL-0104
+FEAT-0200,Unified Notifications,35,9.9,5,1,4,TASK-00291,PROJ-Horizon,In Progress,2024-06-10,,REL-0104
